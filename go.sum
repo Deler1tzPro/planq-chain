@@ -221,6 +221,8 @@ github.com/cosmos/gorocksdb v1.2.0 h1:d0l3jJG8M4hBouIZq0mDUHZ+zjOx044J3nGRskwTb4
 github.com/cosmos/gorocksdb v1.2.0/go.mod h1:aaKvKItm514hKfNJpUJXnnOWeBnk2GL4+Qw9NHizILw=
 github.com/cosmos/iavl v0.19.4 h1:t82sN+Y0WeqxDLJRSpNd8YFX5URIrT+p8n6oJbJ2Dok=
 github.com/cosmos/iavl v0.19.4/go.mod h1:X9PKD3J0iFxdmgNLa7b2LYWdsGd90ToV5cAONApkEPw=
+github.com/cosmos/ibc-go/v3 v3.2.0 h1:Mh+RWo5FHPMM1Xsrar3uwKufdEGdIp5LDkVk9cYKYYA=
+github.com/cosmos/ibc-go/v3 v3.2.0/go.mod h1:DrDYXJjWNwgv72cK1Il+BegtyGIDXcx+cnJwWGzve6o=
 github.com/cosmos/keyring v1.1.7-0.20210622111912-ef00f8ac3d76 h1:DdzS1m6o/pCqeZ8VOAit/gyATedRgjvkVI+UCrLpyuU=
 github.com/cosmos/keyring v1.1.7-0.20210622111912-ef00f8ac3d76/go.mod h1:0mkLWIoZuQ7uBoospo5Q9zIpqq6rYCPJDSUdeCJvPM8=
 github.com/cosmos/ledger-cosmos-go v0.11.1 h1:9JIYsGnXP613pb2vPjFeMMjBI5lEDsEaF6oYorTy6J4=
@@ -298,8 +300,8 @@ github.com/envoyproxy/protoc-gen-validate v0.1.0/go.mod h1:iSmxcyjqTsJpI2R4NaDN7
 github.com/ethereum/go-ethereum v1.10.17/go.mod h1:Lt5WzjM07XlXc95YzrhosmR4J9Ahd6X2wyEV2SvGhk0=
 github.com/ethereum/go-ethereum v1.10.19 h1:EOR5JbL4MD5yeOqv8W2iC1s4NximrTjqFccUz8lyBRA=
 github.com/ethereum/go-ethereum v1.10.19/go.mod h1:IJBNMtzKcNHPtllYihy6BL2IgK1u+32JriaTbdt4v+w=
-github.com/evmos/evmos/v9 v9.0.0-20221024144001-b82bc3cc870f h1:AvP8PPAuK6cjX/cQeFdb3Xkn42+gBYyH30p0Tm91KHQ=
-github.com/evmos/evmos/v9 v9.0.0-20221024144001-b82bc3cc870f/go.mod h1:wVDKNcB5/SsxxUZ/UIjZeBbNPr0/bqyIQ+MXbhPooMQ=
+github.com/evmos/evmos/v9 v9.1.0 h1:mcmoJ85OzV3fLruBn/2tHDx8+s+dN9P8o8mMTfK80Zc=
+github.com/evmos/evmos/v9 v9.1.0/go.mod h1:n6uh8n4ufayn+0KCd0VZwdr4nkrF8NYfHWgjWWbbyfQ=
 github.com/facebookgo/ensure v0.0.0-20200202191622-63f1cf65ac4c h1:8ISkoahWXwZR41ois5lSJBSVw4D0OV19Ht/JSTzvSv0=
 github.com/facebookgo/stack v0.0.0-20160209184415-751773369052 h1:JWuenKqqX8nojtoVVWjGfOF9635RETekkoH6Cc9SX0A=
 github.com/facebookgo/subset v0.0.0-20200203212716-c811ad88dec4 h1:7HZCaLC5+BZpmbhCOZJ293Lz68O7PYrF2EzeiFMwCLk=
